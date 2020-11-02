@@ -32,9 +32,10 @@
 	<a><img  weight="60" src="https://github.com/iamruveyda/Library-Managment-System/blob/main/images/ScreenShots/09.png?raw=true"></a>
 </div>
 
-
 ## References
 
-- HTML Color Codes: https://htmlcolorcodes.com/
-- Icons: https://www.flaticon.com/
-- Gif: https://giphy.com/
+- [HTML Color Codes](https://htmlcolorcodes.com/)
+- [Giphy](https://giphy.com/)
+- [Unsplash](https://unsplash.com/)
+- [IconArchive](https://iconarchive.com/)
+- [Flat Icon](https://www.flaticon.com/)
